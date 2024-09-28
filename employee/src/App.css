@@ -1,0 +1,40 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+#b1{
+  background-color: #4CAF50;
+  color: white;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  margin:20px ;
+}
+#b2{
+  background-color: #4CAF50;
+  color: white;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  margin:20px ;
+
+}
+#ddd{
+    background-image: url('meet.avif');
+    
+}
+#table1{
+  border-radius: 20px ;
+  border:none;
+  padding: 20px;
+  background-image: url('login.avif')
+
+}
+TextField{
+  border: black;
+  border-radius: 30px;
+}
+
